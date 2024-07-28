@@ -1,4 +1,4 @@
-name: super
+name: super-duper-bot
 
 on: 
     workflow_dispatch:
